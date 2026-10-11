@@ -83,6 +83,13 @@
 
 ### RSS Adapter 0.4.6
 
--General cleaning in Tantares.
+- General cleaning in Tantares.
 Now the unmanned modules, cabins and RCS tanks will not contain all types of fuel.
 The exhaust of the RCS nozzles has been put in order.
+
+
+### RSS Adapter 0.4.7 (Now Continued)
+
+- Various bug fixes, rewrites, and changes
+- Added CryoEngine support, fleshed out support for ACK/benjee10 mod suite as well as Photoncorp, fixed some BDB issues
+- Plans for Coatl Aerospace support, Supplimentary Electric Engines, and CryoEngines Expanded.

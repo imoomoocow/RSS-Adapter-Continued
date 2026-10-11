@@ -1,4 +1,4 @@
-# Adapter for Real Solar System
+# Adapter for Real Solar System (Continued)
 
 ### DESCRIPTION
 
@@ -15,14 +15,13 @@ There are the dependancies:
 - **[Custom Barn Kit](https://forum.kerbalspaceprogram.com/topic/109027-18-custom-barn-kit-1120-19-october-2019-parachute-included/)** -- for the launchpad improvements (your LVs will be much heavier now)
 - **[Cryo Tanks](https://forum.kerbalspaceprogram.com/topic/195042-112x-cryotanks-liquid-hydrogen-storage-and-management-oct-25-2021/)** -- real engines use real fuels (hydrolox and metalox) hydrazine is added by this addon. :)
 - **Do not forget to install Cryo Tank's dependancies.**
-
-- There is also an optional 1.6x parts scale patch you can enable by removing the ".disabled" on the rescale.cfg
 ***
 
 And I strongly recommend you to install **[RealEnginesPack 2.01](https://spacedock.info/mod/1212/RealEngines#changelog)** -- 'cause you'll need more real engines for the real crafts!  
 (I even made the Waterfall based effect for them!) ;)  
 "Tantares" is a must have addon, FMPOV -- install my addon and their engines'll become the real ones too.  
 LRTR (Less Real Than Realism) is also highly recommended, and this works well with it
+I also strongly recommend both Restock and Restock+
 
 ### SUPPORT
 - ReStock & ReStock+ -- It goes without saying.

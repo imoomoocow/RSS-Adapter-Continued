@@ -16,12 +16,13 @@ There are the dependancies:
 - **[Cryo Tanks](https://forum.kerbalspaceprogram.com/topic/195042-112x-cryotanks-liquid-hydrogen-storage-and-management-oct-25-2021/)** -- real engines use real fuels (hydrolox and metalox) hydrazine is added by this addon. :)
 - **Do not forget to install Cryo Tank's dependancies.**
 
+- There is also an optional 1.6x parts scale patch you can enable by removing the ".disabled" on the rescale.cfg
 ***
 
 And I strongly recommend you to install **[RealEnginesPack 2.01](https://spacedock.info/mod/1212/RealEngines#changelog)** -- 'cause you'll need more real engines for the real crafts!  
 (I even made the Waterfall based effect for them!) ;)  
 "Tantares" is a must have addon, FMPOV -- install my addon and their engines'll become the real ones too.  
-  
+LRTR (Less Real Than Realism) is also highly recommended, and this works well with it
 
 ### SUPPORT
 - ReStock & ReStock+ -- It goes without saying.
@@ -38,10 +39,12 @@ And I strongly recommend you to install **[RealEnginesPack 2.01](https://spacedo
 - Near Future Spacecraft - monopropellant engines have become hydrazine.
 - VabOrganizer -- all engines are sorted by fuel type.
 - Tundra -- falcons are great.
+- Cryo Engines
 
 ### CONFLICT
 - Real Fuels -- cannot be compatible with RSS Adapter, since it changes the same thing: fuel and engines.
-
+- Chemical Propulsion -- for the same reasons above.
+- SMURFF -- it isn't technically a conflict, you can install both but it will make parts severely unbalanced and defeats the purpose of either mod.
 
 ### LICENCE
 

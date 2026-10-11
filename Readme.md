@@ -20,7 +20,7 @@ There are the dependancies:
 And I strongly recommend you to install **[RealEnginesPack 2.01](https://spacedock.info/mod/1212/RealEngines#changelog)** -- 'cause you'll need more real engines for the real crafts!  
 (I even made the Waterfall based effect for them!) ;)  
 "Tantares" is a must have addon, FMPOV -- install my addon and their engines'll become the real ones too.  
-LRTR (Less Real Than Realism) is also highly recommended, and this works well with it
+LRTR (Less Real Than Realism) is also highly recommended, and this works well with it  
 I also strongly recommend both Restock and Restock+
 
 ### SUPPORT
